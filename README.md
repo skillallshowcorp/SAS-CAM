@@ -1,4 +1,6 @@
-# 🎥 SAS-CAM - Global IP Camera Discovery Platform
+# 🎥 SAS-CAM - Global IP Camera 
+
+![SAS-CAM Logo](./logo.png)
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.6+-green.svg)
