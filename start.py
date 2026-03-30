@@ -284,7 +284,7 @@ def print_banner() -> None:
 
 {Colors.CYAN}Version: 1.0 | Python 3.6 | Python 3.11{Colors.ENDC}
 
-{Colors.RED} DISCORD : https://discord.gg/XqStQMHv5z{Colors.ENDC}
+{Colors.RED} DISCORD : https://discord.gg/mzXMpC9g9S{Colors.ENDC}
 
 {Colors.ENDC}
 """
